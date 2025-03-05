@@ -1,5 +1,6 @@
 # Layer Edge Auto Bot - Advanced Version
 - Website: https://dashboard.layeredge.io/
+- you can use my referral : mZqJC2dq
 
 ## Features
 - **Auto Run Node**
